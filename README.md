@@ -1,5 +1,4 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=kayykky&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
-<img align='right' src="https://github.com/Kayykky/kayykky/assets/125319686/1389be65-3f71-49ab-a82e-5e16c164b011" width="17%" height="22%"/>  
 
 ### Olá, me chamo Kayky 🍋
 18 anos - Estudante de TI e Designer<br>
