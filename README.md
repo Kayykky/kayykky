@@ -2,7 +2,7 @@
 <img align='right' src="https://github.com/Kayykky/kayykky/assets/125319686/1389be65-3f71-49ab-a82e-5e16c164b011" width="17%" height="22%"/>
 
 ### Olá, me chamo Kayky 🍋
-18 anos - Estudante de TI e Designer<br>
+19 anos - Estudante de TI e Designer<br>
 Foco em desenvolvimento **web**.<br>
 💧⚡🍀🔎
 
